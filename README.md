@@ -1,5 +1,5 @@
 Hi there 👋, Im Crabo_ (Vincent)
-=================================
+==================================================================================================
 
 - 🔭 &nbsp; Unity Gamedev -> Working on To-Be-Released Steam Game
 - 🌱 &nbsp; Mainly work with Swift and C#, but I also know Java, JS and Python
@@ -7,7 +7,9 @@ Hi there 👋, Im Crabo_ (Vincent)
 - :computer: &nbsp; Computer specs: a computer
 - ⚡ &nbsp; Fun fact: gamedev is absolute agony:tm:
 
-[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Crabo-7498&show_icons=true&title_color=FFFFFF&text_color=dedede&icon_color=f2c40c&bg_color=18171c&count_private=true&hide_border=true?)](https://github.com/anuraghazra/github-readme-stats)
+--------------------------------------------------------------------------------------------------
+
+[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Crabo-7498&show_icons=true&title_color=FFFFFF&text_color=e8e8e8&icon_color=f2c40c&bg_color=2b2b2b&count_private=true&hide_border=true?)](https://www.github.com/Crabo-7498)
 
 <!--
 **Crabo-7498/Crabo-7498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
