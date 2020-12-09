@@ -9,7 +9,7 @@ Hi there 👋, Im Crabo_ (Vincent)
 
 --------------------------------------------------------------------------------------------------
 
-[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Crabo-7498&show_icons=true&title_color=FFFFFF&text_color=e8e8e8&icon_color=f2c40c&bg_color=2b2b2b&count_private=true&hide_border=true?)](https://www.github.com/Crabo-7498)
+[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Crabo-7498&show_icons=true&title_color=FFFFFF&text_color=e8e8e8&icon_color=f2c40c&bg_color=0d1116&count_private=true&hide_border=true?)](https://www.github.com/Crabo-7498)
 
 <!--
 **Crabo-7498/Crabo-7498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
