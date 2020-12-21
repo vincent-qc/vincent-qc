@@ -2,7 +2,7 @@ Hi there 👋, Im Crabo_ (Vincent)
 ==================================================================================================
 
 - 🔭 &nbsp; Unity Gamedev -> Working on To-Be-Released Steam Game
-- 🌱 &nbsp; Mainly work with Swift and C#, but I also know Java, JS and Python
+- 🌱 &nbsp; Mainly work with Swift and C#, but I also know Java, JS, C++ and Python
 - :envelope_with_arrow: &nbsp; Contact me at `vincent.qi@hotmail.com` or `crabo_#7498` on Discord
 - :computer: &nbsp; Computer specs: a computer
 - ⚡ &nbsp; Fun fact: gamedev is absolute agony:tm:
