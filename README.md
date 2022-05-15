@@ -10,4 +10,4 @@ Im Vincor Qc (Vincent)
 
 --------------------------------------------------------------------------------------------------
 
-[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Crabo-7498&show_icons=true&title_color=FFFFFF&text_color=e8e8e8&icon_color=f2c40c&bg_color=0d1116&count_private=true&hide_border=true?)](https://www.github.com/Crabo-7498)
+[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=vincor-qc&show_icons=true&title_color=FFFFFF&text_color=e8e8e8&icon_color=f2c40c&bg_color=0d1116&count_private=true&hide_border=true?)](https://www.github.com/vincor-qc)
