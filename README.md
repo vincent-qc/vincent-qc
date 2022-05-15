@@ -4,7 +4,7 @@ Im Vincor Qc (Vincent)
 ### **Canadian highschool student learning CS.**
 
 - 🔭 &nbsp; Typical Engineer
-- 🌱 &nbsp; Mainly work with Java and C#, but I also know Swift, JS, C++ and Python
+- 🌱 &nbsp; C# connoisseur, but I can work with basically any language
 - :envelope_with_arrow: &nbsp; Contact me at `vincent.qi@hotmail.com` or `crabo_#7498` on Discord
 - :computer: &nbsp; I use arch btw
 
