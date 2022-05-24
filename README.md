@@ -1,5 +1,6 @@
 Helle there, Im Vincent 👋🏻
 ==================================================================================================
+> I create convoluted solutions to simple problems.
 
 ### About Me
 
@@ -23,17 +24,19 @@ and more...
 - Ourcraft - A minecraft mod that seizes the means of production. Expect to find this sometime late 2022.
 Expect a few other Unity games and shenanigans this summer...
 
-### Contact
+### Tech I Use
+![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.3-red?style=for-the-badge&logo=IntelliJ%20IDEA)
+[![CurseForge](https://img.shields.io/badge/Curseforge-Mods-orange?style=for-the-badge&logo=CurseForge)](https://www.curseforge.com/members/vincorqc/projects)
+![Minecraft Forge](https://img.shields.io/badge/Minecraft%20Forge-1.18.2%20--%2040.1.0-brightgreen?style=for-the-badge&logo=minetest)
+![VSCode](https://img.shields.io/badge/VSCode-1.67-blue?style=for-the-badge&logo=visualstudiocode)
+![Unity](https://img.shields.io/badge/Unity-2022.1.1-blueviolet?style=for-the-badge&logo=unity)
 
+
+### Contact
 Discord: `vincor_#7498`<br>
 Email: `dev.vincent.qi@outlook.com`
 
 I would prefer that you contact me via Discord, since I am most active there. If for some reason I am unavaliable, you can send an email to me, and I will likely respond within 3-5 days.
-
-#### Other Profiles
-[Curseforge](https://www.curseforge.com/members/vincorqc/projects) - Where I upload my Minecraft mods<br>
-[Itch.io](https://crabo-7498.itch.io/) - Where I upload my games<br>
-[Twitch](https://www.twitch.tv/vincorqc) - Where I might occasionally stream development or something<br>
 
 --------------------------------------------------------------------------------------------------
 
