@@ -12,6 +12,7 @@ If you found this page, you probably know me irl, or you stumbled upon this page
 - [Blockout](https://github.com/vincor-qc/blockout) - Will maintain this mod indefinitely as Minecraft constantly updates.
 - [Inu](https://github.com/Bulldog-Computer-Club/inu) - A moderation bot for my programming club.
 - [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
+- [VSHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 
 ### Past Projects
 - [Particle Simulations](https://github.com/vincor-qc/Particle-Simulations) - A natural selection simulator written in Unity.
