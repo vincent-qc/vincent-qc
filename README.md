@@ -12,13 +12,13 @@ If you found this page, you probably know me irl, or you stumbled upon this page
 - [Blockout](https://github.com/vincor-qc/blockout) - Will maintain this mod indefinitely as Minecraft constantly updates.
 - [Inu](https://github.com/Bulldog-Computer-Club/inu) - A moderation bot for my programming club.
 - [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
-- [VSHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 
 ### Past Projects
 - [Particle Simulations](https://github.com/vincor-qc/Particle-Simulations) - A natural selection simulator written in Unity.
 - [Keyboard PCB](https://github.com/vincor-qc/keyboard-pcb) - The schematics and design for my keyboard PCB.
 - [Ikenai](https://github.com/vincor-qc/vhhacks-2021) - A discord bot written for vhHacks 2021.
 - [Geroge Game](https://github.com/vincor-qc/george-simulator) - An IOS game I wrote purely out of boredom during the pandemic.
+- [VSHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 and more...
 
 ### Upcoming Projects
