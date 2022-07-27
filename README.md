@@ -1,6 +1,6 @@
 Helle there, Im Vincent 👋🏻
 ==================================================================================================
-> I create convoluted solutions to simple problems.
+> If you steal my code i'll just let you know its not my code.
 
 ### About Me
 
