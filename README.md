@@ -18,7 +18,7 @@ If you found this page, you probably know me irl, or you stumbled upon this page
 - [Keyboard PCB](https://github.com/vincor-qc/keyboard-pcb) - The schematics and design for my keyboard PCB.
 - [Ikenai](https://github.com/vincor-qc/vhhacks-2021) - A discord bot written for vhHacks 2021.
 - [Geroge Game](https://github.com/vincor-qc/george-simulator) - An IOS game I wrote purely out of boredom during the pandemic.
-- [VSHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
+- [vsHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 and more...
 
 ### Upcoming Projects
