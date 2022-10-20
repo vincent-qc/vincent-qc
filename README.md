@@ -4,7 +4,7 @@ Helle there, Im Vincent 👋🏻
 
 ### About Me
 
-Hi, I am a Canadian Highschool student interested in engineering and CS. 
+Hi, I am a Canadian International Bacculaureate Student and SWE [@EduBeyond](https://github.com/EduBeyond)
 
 If you found this page, you probably know me irl, or you stumbled upon this page through one of my projects. I mainly work with Unity Game Development, where I turn absurd game ideas into reality, and Minecraft Mod Development. You can also find all sorts of other projects other than those two on my profile, such as the programs I write for my school club, or those I use for my engineering endevours. Outside of tech, I am also interested in math, the outdoors and instructing ski at Mt. Seymour.
 
