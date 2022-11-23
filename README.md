@@ -6,12 +6,11 @@ Helle there, Im Vincent 👋🏻
 
 Hi, I am a Canadian International Bacculaureate Student and SWE [@EduBeyond](https://github.com/EduBeyond)
 
-If you found this page, you probably know me irl, or you stumbled upon this page through one of my projects. I mainly work with Unity Game Development, where I turn absurd game ideas into reality, and Minecraft Mod Development. You can also find all sorts of other projects other than those two on my profile, such as the programs I write for my school club, or those I use for my engineering endevours. Outside of tech, I am also interested in math, the outdoors and instructing ski at Mt. Seymour.
+I am currently allocating all of my time towards school and EduBeyond, but I still occasionally work on a few Unity games and Minecraft mods. Outside of programming, I also work as a Ski Instructor at Mt. Seymour and I also enjoy working on EE projects.
 
 
 ### Current Projects
-- [Blockout](https://github.com/vincor-qc/blockout) - Will maintain this mod indefinitely as Minecraft constantly updates.
-- [Inu](https://github.com/Bulldog-Computer-Club/inu) - A moderation bot for my programming club.
+- [Blockout](https://github.com/vincor-qc/blockout) - Not actively maintaining, but I am open to suggestions and collaboration requests
 - [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
 
 ### Past Projects
@@ -22,14 +21,11 @@ If you found this page, you probably know me irl, or you stumbled upon this page
 - [vsHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 and more...
 
-### Upcoming Projects
-- Ourcraft - A minecraft mod that seizes the means of production. Expect to find this sometime late 2022.
-Expect a few other Unity games and shenanigans this summer...
-
 ### Tech I Use
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.3-red?style=for-the-badge&logo=IntelliJ%20IDEA)
 [![CurseForge](https://img.shields.io/badge/Curseforge-Mods-orange?style=for-the-badge&logo=CurseForge)](https://www.curseforge.com/members/vincorqc/projects)
 ![Forge](https://img.shields.io/badge/Ren'py-brightgreen?style=for-the-badge&logo=renpy&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-18.2.0-14b1c9?style=for-the-badge&logo=react&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-1.67-blue?style=for-the-badge&logo=visualstudiocode)
 ![Unity](https://img.shields.io/badge/Unity-2022.1.1-blueviolet?style=for-the-badge&logo=unity)
 
