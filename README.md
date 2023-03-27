@@ -10,14 +10,15 @@ I am currently allocating all of my time towards school and EduBeyond, but I sti
 
 
 ### Current Projects
-- [Blockout](https://github.com/vincor-qc/blockout) - Not actively maintaining, but I am open to suggestions and collaboration requests
-- [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
+- Just focusing on my work at @EduBeyond
 
 ### Past Projects
 - [Particle Simulations](https://github.com/vincor-qc/Particle-Simulations) - A natural selection simulator written in Unity.
 - [Keyboard PCB](https://github.com/vincor-qc/keyboard-pcb) - The schematics and design for my keyboard PCB.
 - [Ikenai](https://github.com/vincor-qc/vhhacks-2021) - A discord bot written for vhHacks 2021.
 - [Geroge Game](https://github.com/vincor-qc/george-simulator) - An IOS game I wrote purely out of boredom during the pandemic.
+- [Blockout](https://github.com/vincor-qc/blockout) - Not actively maintaining, but I am open to suggestions and collaboration requests
+- [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
 - [vsHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
 and more...
 
@@ -35,8 +36,6 @@ Discord: `vincor_#7498`<br>
 Email: `dev.vincent.qi@outlook.com`
 
 I would prefer that you contact me via Discord, since I am most active there. If for some reason I am unavaliable, you can send an email to me, and I will likely respond within 3-5 days.
-
-You may contact me in *English + Français*
 
 --------------------------------------------------------------------------------------------------
 
