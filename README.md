@@ -20,7 +20,7 @@ I am currently allocating all of my time towards school and EduBeyond, but I sti
 - [Blockout](https://github.com/vincor-qc/blockout) - Not actively maintaining, but I am open to suggestions and collaboration requests
 - [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
 - [vsHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
-and more...
+- and more...
 
 ### Tech I Use
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.3-red?style=for-the-badge&logo=IntelliJ%20IDEA)
