@@ -1,4 +1,4 @@
-Helle there, Im Vincent 👋🏻
+Helle there, I'm Vincent 👋🏻
 ==================================================================================================
 > If you steal my code i'll just let you know its not my code.
 
