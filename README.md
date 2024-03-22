@@ -33,7 +33,7 @@ I am currently allocating all of my time towards school and EduBeyond, but I sti
 
 ### Contact
 Discord: `vincor_#7498`<br>
-Email: `dev.vincent.qi@outlook.com`
+Email: `vincent@edubeyond.ai`
 
 I would prefer that you contact me via Discord, since I am most active there. If for some reason I am unavaliable, you can send an email to me, and I will likely respond within 3-5 days.
 
