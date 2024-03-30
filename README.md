@@ -4,7 +4,7 @@ Helle there, I'm Vincent 👋🏻
 
 ### About Me
 
-Hi, I am a Canadian International Bacculaureate Student and SWE [@EduBeyond](https://github.com/EduBeyond)
+Hi, I am a Canadian International Bacculaureate Student, SWE [@EduBeyond](https://github.com/EduBeyond), and Incoming Student @ Carnegie Mellon University's School of Computer Science
 
 I am currently allocating all of my time towards school and EduBeyond, but I still occasionally work on a few Unity games and Minecraft mods. Outside of programming, I also work as a Ski Instructor at Mt. Seymour.
 
