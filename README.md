@@ -35,9 +35,9 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 
 ## Contact
 
-<pre>
-  <img align="center" src="./assets/images/discord.svg" width="20px" />  <code> vincor_ </code>
-</pre>
+<div style="background-color: rgba(211, 211, 211, 0.1); border-radius: 3px; padding: 10px; padding-left: 30px;">
+  <img align="center" src="./assets/images/discord.svg" width="20px" />  <code>vincor_</code>
+</div>
 
 <pre>
   <img align="center" src="./assets/images/edubeyond.svg" width="20px" />  <code> vincent@edubeyond.ai </code>
