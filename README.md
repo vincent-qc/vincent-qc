@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=524&lines=Founding+Fullstack+SWE+%40+EduBeyond;Incoming+CS+%40+Carnegie+Mellon+University;Co-Founder+%26+Current+Chair+%40+vsHacks" alt="Typing SVG" />
 </p>
 
-<hr style="border: none; border-top: 2px solid #C41230;">
-
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/vincent_.qi/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/images/insta.svg"/></a>
@@ -15,6 +13,10 @@
   <a href="https://www.linkedin.com/in/vincent-qi-777571250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:vincent@edubeyond.ai"><img width="32px" alt="Mail" title="Email Me" src="./assets/images/mail.svg"/></a>
+</p>
+
+<p align="center">
+  <img width="100%" src="./assets/images/line.svg"/>
 </p>
 
 ## About Me
@@ -25,18 +27,36 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 
 ## Tech
 
-![React](https://img.shields.io/badge/React-18.2.0-ed4a5d?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![Mongo](https://img.shields.io/badge/Mongo-8.0-ed4a5d?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-4.4-ed4a5d?style=for-the-badge&logo=openai)
-![NodeJS](https://img.shields.io/badge/Node-20.10-ed4a5d?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/Unity-2022-ed4a5d?style=for-the-badge&logo=unity)
+![React](https://img.shields.io/badge/React-18.2.0-C41230?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Mongo](https://img.shields.io/badge/Mongo-8.0-C41230?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI-4.4-C41230?style=for-the-badge&logo=openai)
+![NodeJS](https://img.shields.io/badge/Node-20.10-C41230?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-2022-C41230?style=for-the-badge&logo=unity)
 
 ## Contact
 
-Discord: `vincor_`<br>
-Emails: `vincent@edubeyond.ai` or `vqi@andrew.cmu.edu`
+<b>Discord</b>
+<br>
+<code>
+<img align="center" src="./assets/images/discord.svg" width="20px" />
+vincor\_
+</code>
 
-<hr style="border: none; border-top: 2px solid #C41230;">
+<b>Emails</b>
+<br>
+<code>
+<img align="center" src="./assets/images/edubeyond.svg" width="20px" />
+vincent@edubeyond.ai
+</code>
+or
+<code>
+<img align="center" src="./assets/images/scs.svg" width="20px" />
+vqi@andrew.cmu.edu
+</code>
+
+<p align="center">
+  <img width="100%" src="./assets/images/line.svg"/>
+</p>
 
 # Some Stats
 
