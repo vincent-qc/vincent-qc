@@ -36,7 +36,7 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 ## Contact
 
 <pre>
-  <img align="center" src="./assets/images/discord.svg" width="20px" />  vincor_
+  <img align="center" src="./assets/images/discord.png" width="20px" />  vincor_
 </pre>
 
 <pre>
