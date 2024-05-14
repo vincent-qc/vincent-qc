@@ -50,6 +50,7 @@ In the future, I'll continue to work on EduBeyond, as well as many things to com
   &#8287;
     <img src="https://img.shields.io/badge/Unity-2022-C41230?style=for-the-badge&logo=unity" />
 </p>
+
 ## Contact
 
 <img align="left" src="./assets/images/discord.png" width="50px" /> <pre>vincor\_</pre>
