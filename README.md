@@ -25,23 +25,31 @@
 Hi, my name's Vincent.
 
 I am a ...
-- Canadian International Bacculaureate Student
-- Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>
-- And an Incoming AI & CS @ Carnegie Mellon's School of Computer Science
+- Canadian International Bacculaureate Student;
+- Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>;
+- And an Incoming AI & CS @ Carnegie Mellon's School of Computer Science!
 
 In the past, I've ...
-- Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon
-- And I've built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame.
+- Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon;
+- And I've built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame I played with friends during the pandemic!
 </pre>
+
+In the future, I'll continue to work on EduBeyond, as well as many things to come!
 
 ## Tech
 
-![React](https://img.shields.io/badge/React-18.2.0-C41230?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![Mongo](https://img.shields.io/badge/Mongo-8.0-C41230?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-4.4-C41230?style=for-the-badge&logo=openai)
-![NodeJS](https://img.shields.io/badge/Node-20.10-C41230?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/Unity-2022-C41230?style=for-the-badge&logo=unity)
-
+<p align="center">
+  &#8287;
+  <img src="https://img.shields.io/badge/React-18.2.0-C41230?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  &#8287;
+  <img src="https://img.shields.io/badge/Mongo-8.0-C41230?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+  &#8287;
+  <img src="https://img.shields.io/badge/OpenAI-4.4-C41230?style=for-the-badge&logo=openai" />
+  &#8287;
+  <img src="https://img.shields.io/badge/Node-20.10-C41230?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
+  &#8287;
+    <img src="https://img.shields.io/badge/Unity-2022-C41230?style=for-the-badge&logo=unity" />
+</p>
 ## Contact
 
 <img align="left" src="./assets/images/discord.png" width="50px" /> <pre>vincor\_</pre>
