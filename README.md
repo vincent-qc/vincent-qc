@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/images/line.svg"/>
+  <img width="100%" height="3px" src="./assets/images/line.svg"/>
 </p>
 
 ## About Me
@@ -60,7 +60,7 @@ In the future, I'll continue to work on EduBeyond, as well as many things to com
 <img align="left" src="./assets/images/scs.png" width="50px" /> <pre>vqi [at] andrew.cmu.edu</pre>
 
 <p align="center">
-  <img width="100%" src="./assets/images/line.svg"/>
+  <img width="100%" height="3px" src="./assets/images/line.svg"/>
 </p>
 
 # Some Stats
