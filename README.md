@@ -21,9 +21,11 @@
 
 ## About Me
 
-<pre>Hi, I am a Canadian International Bacculaureate Student, Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>, and Incoming AI & CS @ Carnegie Mellon School of Computer Science
+```
+Hi, I am a Canadian International Bacculaureate Student, Founding SWE [@EduBeyond](https://github.com/EduBeyond), and Incoming AI & CS @ Carnegie Mellon School of Computer Science
 
-In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's largest high school hackathon, and I've built [Blockout](https://github.com/vincor-qc/blockout), some Minecraft minigame I played with friends during the pandemic.</pre>
+In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's largest high school hackathon, and I've built [Blockout](https://github.com/vincor-qc/blockout), some Minecraft minigame I played with friends during the pandemic.
+```
 
 ## Tech
 
