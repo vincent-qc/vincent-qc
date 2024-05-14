@@ -27,13 +27,13 @@ Hi, my name's Vincent.
 I am a ...
 - Canadian International Bacculaureate Student;
 - Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>;
-- And an Incoming AI & CS @ Carnegie Mellon's School of Computer Science!
+- And an Incoming AI & CS student @ Carnegie Mellon's School of Computer Science.
 
 In the past, I've ...
 - Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon;
-- And I've built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame I played with friends during the pandemic!
+- And built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame I played with friends during the pandemic.
 
-In the future, I'll continue to work on EduBeyond, as well as many things to come!
+In the future, I'll continue to work on EduBeyond, as well as many things to come.
 </pre>
 
 ## Tech
