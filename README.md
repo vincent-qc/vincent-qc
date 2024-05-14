@@ -35,17 +35,17 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 
 ## Contact
 
-<p>
-  <code><img align="center" src="./assets/images/discord.svg" width="20px" /> vincor_ </code>
-</p>
+<pre>
+  <img align="center" src="./assets/images/discord.svg" width="20px" />  <code> vincor_ </code>
+</pre>
 
-<p>
-  <code><img align="center" src="./assets/images/edubeyond.svg" width="20px" /> vincent@edubeyond.ai </code>
-</p>
+<pre>
+  <img align="center" src="./assets/images/edubeyond.svg" width="20px" />  <code> vincent@edubeyond.ai </code>
+</pre>
 
-<p>
-  <code><img align="center" src="./assets/images/scs.svg" width="20px" /> vqi@andrew.cmu.edu </code>
-</p>
+<pre>
+  <img align="center" src="./assets/images/scs.svg" width="20px" />  <code> vqi@andrew.cmu.edu </code>
+</pre>
 
 <p align="center">
   <img width="100%" src="./assets/images/line.svg"/>
