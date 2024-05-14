@@ -32,9 +32,9 @@ I am a ...
 In the past, I've ...
 - Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon;
 - And I've built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame I played with friends during the pandemic!
-</pre>
 
 In the future, I'll continue to work on EduBeyond, as well as many things to come!
+</pre>
 
 ## Tech
 
