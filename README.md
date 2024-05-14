@@ -44,9 +44,7 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 
 <p>
   <img align="center" src="./assets/images/edubeyond.svg" width="20px" />
-  <code>
-  vincent@edubeyond.ai
-  </code>
+  <code>vincent@edubeyond.ai</code>
 </p>
 
 <p>
