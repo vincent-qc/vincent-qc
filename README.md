@@ -1,53 +1,52 @@
-Hello there, I'm Vincent 👋🏻
-==================================================================================================
-> If you steal my code i'll just let you know its not my code.
+<p align="center">
+  <a href="https://www.github.com/vincor-qc"><img src="./assets/images/name.svg" alt="Vincent Qi" width="40%"/></a>
+</p>
 
-### About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=524&lines=Founding+Fullstack+SWE+%40+EduBeyond;Incoming+CS+%40+Carnegie+Mellon+University;Co-Founder+%26+Current+Chair+%40+vsHacks" alt="Typing SVG" />
+</p>
 
-Hi, I am a Canadian International Bacculaureate Student, Founding SWE [@EduBeyond](https://github.com/EduBeyond), and Incoming AI/CS @ Carnegie Mellon School of Computer Science
+<hr style="border: none; border-top: 2px solid #C41230;">
 
-I am currently allocating all of my time towards school and EduBeyond, but I still occasionally work on a few Unity games and Minecraft mods. Outside of programming, I also work as a Ski Instructor at Mt. Seymour.
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/vincent_.qi/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/images/insta.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/vincent-qi-777571250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:vincent@edubeyond.ai"><img width="32px" alt="Mail" title="Email Me" src="./assets/images/mail.svg"/></a>
+</p>
 
+## About Me
 
-### Current Projects
-- Just focusing on my work at @EduBeyond
+Hi, I am a Canadian International Bacculaureate Student, Founding SWE [@EduBeyond](https://github.com/EduBeyond), and Incoming AI & CS @ Carnegie Mellon School of Computer Science
 
-### Past Projects
-- [Particle Simulations](https://github.com/vincor-qc/Particle-Simulations) - A natural selection simulator written in Unity.
-- [Keyboard PCB](https://github.com/vincor-qc/keyboard-pcb) - The schematics and design for my keyboard PCB.
-- [Ikenai](https://github.com/vincor-qc/vhhacks-2021) - A discord bot written for vhHacks 2021.
-- [Geroge Game](https://github.com/vincor-qc/george-simulator) - An IOS game I wrote purely out of boredom during the pandemic.
-- [Blockout](https://github.com/vincor-qc/blockout) - Not actively maintaining, but I am open to suggestions and collaboration requests
-- [Startpage](https://github.com/vincor-qc/new-startpage) - A personal startpage that I use, will occansionally get updates until I decide to decommision it.
-- [vsHacks](https://vshacks.tech/) - A hackthon organized by my club and several others in Greater Vancouver
-- and more...
+In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's largest high school hackathon, and I've built [Blockout](https://github.com/vincor-qc/blockout), some Minecraft minigame I played with friends during the pandemic.
 
-### Tech I Use
-![IntelliJ](https://img.shields.io/badge/IntelliJ-2021.3.3-red?style=for-the-badge&logo=IntelliJ%20IDEA)
-[![CurseForge](https://img.shields.io/badge/Curseforge-Mods-orange?style=for-the-badge&logo=CurseForge)](https://www.curseforge.com/members/vincorqc/projects)
-![Forge](https://img.shields.io/badge/Ren'py-brightgreen?style=for-the-badge&logo=renpy&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-18.2.0-14b1c9?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-1.67-blue?style=for-the-badge&logo=visualstudiocode)
-![Unity](https://img.shields.io/badge/Unity-2022.1.1-blueviolet?style=for-the-badge&logo=unity)
+## Tech
 
+![React](https://img.shields.io/badge/React-18.2.0-ed4a5d?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Mongo](https://img.shields.io/badge/Mongo-8.0-ed4a5d?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/OpenAI-4.4-ed4a5d?style=for-the-badge&logo=openai)
+![NodeJS](https://img.shields.io/badge/Node-20.10-ed4a5d?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-2022-ed4a5d?style=for-the-badge&logo=unity)
 
-### Contact
-Discord: `vincor_#7498`<br>
-Email: `vincent@edubeyond.ai`
+## Contact
 
-I would prefer that you contact me via Discord, since I am most active there. If for some reason I am unavaliable, you can send an email to me, and I will likely respond within 3-5 days.
+Discord: `vincor_`<br>
+Emails: `vincent@edubeyond.ai` or `vqi@andrew.cmu.edu`
 
---------------------------------------------------------------------------------------------------
+<hr style="border: none; border-top: 2px solid #C41230;">
 
-### Some Stats
+# Some Stats
 
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=vincor-qc&show_icons=true&title_color=D02525&text_color=909090&bg_color=00000000&hide_border=true&icon_color=C05050&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=vincor-qc&show_icons=true&title_color=C41230&text_color=909090&bg_color=00000000&hide_border=true&icon_color=C43250&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincor-qc&layout=compact&show_icons=true&title_color=D02525&text_color=909090&bg_color=00000000&hide_border=true&icon_color=E05040&langs_count=8&hide=c%2B%2B,c,makefile,freemarker,assembly,pawn,roff&exclude_repo=Particle-Simulations&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincor-qc&layout=compact&show_icons=true&title_color=C41230&text_color=909090&bg_color=00000000&hide_border=true&icon_color=E05040&langs_count=8&hide=c%2B%2B,c,makefile,freemarker,assembly,pawn,roff&exclude_repo=Particle-Simulations&count_private=true" />
     </td>
   </tr>
 </table>
