@@ -35,7 +35,7 @@ In the past, I've co-founded [vsHacks](https://vshacks.tech/), Vancouver's large
 
 ## Contact
 
-<div style="background-color: rgba(211, 211, 211, 0.1); border-radius: 3px; padding: 10px; padding-left: 30px;">
+<div style="background-color: rgba(211, 211, 211, 0.5); border-radius: 3px; padding: 10px; padding-left: 30px;">
   <img align="center" src="./assets/images/discord.svg" width="20px" />  <code>vincor_</code>
 </div>
 
