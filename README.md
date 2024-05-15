@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/vincent_.qi/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/images/insta.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/vincent-qi-777571250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
