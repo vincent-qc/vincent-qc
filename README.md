@@ -66,6 +66,8 @@ In the future, I'll continue to work on EduBeyond, as well as many things to com
 
 # Some Stats
 
+<img width="64px" src="https://komarev.com/ghpvc/?username=vincor-qc&label=Views&style=for-the-badge&color=C41230" />
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
