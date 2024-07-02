@@ -37,7 +37,7 @@ In the past, I've ...
 In the future, I'll continue to work on EduBeyond, as well as many things to come.
 </pre>
 
-## Tech
+## Stack
 
 <p align="center">
   &#8287;
