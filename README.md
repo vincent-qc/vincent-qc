@@ -26,9 +26,8 @@
 Hi, my name's Vincent.
 
 I am a ...
-- Canadian International Bacculaureate Student;
 - Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>;
-- And an Incoming AI & CS student @ Carnegie Mellon's School of Computer Science.
+- And an Incoming CS student @ Carnegie Mellon's School of Computer Science.
 
 In the past, I've ...
 - Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon;
