@@ -31,8 +31,8 @@ At 18, I exited and I'm now working on a nlp startup that revolutionizes how hum
 
 My current software and research interests include 
   * large scale ai systems
-  * systems development
   * retrival models
+  * systems development
   * and game development.
 
 Welcome to my github, feel free to reach out, and let's build the future together.
