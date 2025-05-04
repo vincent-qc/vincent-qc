@@ -23,39 +23,24 @@
 ## About Me
 
 <pre>
-Hi, my name's Vincent.
+I'm Vincent Qi, a cs student at carnegie mellon University, and ex-founding swe at EduBeyond.
 
-I am a ...
-- Founding SWE <a href="https://github.com/EduBeyond">@EduBeyond</a>;
-- And a CS student @ Carnegie Mellon's School of Computer Science.
+At 16, I started EduBeyond, an edtech startup that built llm powered learning management systems.
+  
+At 18, I exited and I'm now working on a nlp startup that revolutionizes how humans and computers interact.
 
-In the past, I've ...
-- Co-founded <a href="https://vshacks.tech/">vsHacks</a>, Vancouver's largest high school hackathon;
-- And built <a href="https://github.com/vincor-qc/blockout">Blockout</a>, a Minecraft minigame I played with friends during the pandemic.
+My current software and research interests include 
+  * large scale ai systems
+  * systems development
+  * retrival models
+  * and game development.
 
-In the future, I'll continue to work on EduBeyond, as well as many things to come.
+Welcome to my github, feel free to reach out, and let's build the future together.
 </pre>
-
-## Stack
-
-<p align="center">
-  &#8287;
-  <img src="https://img.shields.io/badge/React-18.2.0-C41230?style=for-the-badge&logo=react&logoColor=FFFFFF" />
-  &#8287;
-  <img src="https://img.shields.io/badge/Mongo-8.0-C41230?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
-  &#8287;
-  <img src="https://img.shields.io/badge/OpenAI-4.4-C41230?style=for-the-badge&logo=openai" />
-  &#8287;
-  <img src="https://img.shields.io/badge/Node-20.10-C41230?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
-  &#8287;
-    <img src="https://img.shields.io/badge/Unity-2022-C41230?style=for-the-badge&logo=unity" />
-</p>
-
+  
 ## Contact
 
 <img align="left" src="./assets/images/discord.png" width="50px" /> <pre>vincor\_</pre>
-
-<img align="left" src="./assets/images/edubeyond.png" width="50px" /> <pre>vincent [at] edubeyond.ai</pre>
 
 <img align="left" src="./assets/images/scs.png" width="50px" /> <pre>vqi [at] andrew.cmu.edu</pre>
 
