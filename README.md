@@ -23,7 +23,7 @@
 ## About Me
 
 <pre>
-I'm Vincent Qi, a cs student at carnegie mellon University, and ex-founding swe at EduBeyond.
+I'm Vincent Qi, a cs student at carnegie mellon university, and a prev. founding swe at EduBeyond.
 
 At 16, I started EduBeyond, an edtech startup that built llm powered learning management systems.
   
