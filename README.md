@@ -27,7 +27,7 @@ I'm Vincent Qi, a cs student at carnegie mellon university, and a prev. founding
 
 At 16, I started EduBeyond, an edtech startup that built llm powered learning management systems.
   
-At 18, I exited and I'm now working on a nlp startup that revolutionizes how humans and computers interact.
+At 18, I exited EduBeyond. Now, I'm working on an nlp startup that revolutionizes how humans and computers interact.
 
 My current software and research interests include 
   * large scale ai systems
