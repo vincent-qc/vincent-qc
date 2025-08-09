@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.github.com/vincor-qc"><img src="./assets/images/name.svg" alt="Vincent Qi" width="40%"/></a>
+  <a href="https://www.github.com/vincor-qc"><img src="./assets/images/name.svg" alt="Vincent Qi" width="28%"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=524&lines=swe+%40+mercor;cs+%40+carnegie+mellon+university;prev.+founding+swe+%40+edubeyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=494&lines=swe+%40+mercor;cs+%40+carnegie+mellon+university;prev.+founding+swe+%40+edubeyond" alt="Typing SVG" />
 </p>
 
 <p align="center">
