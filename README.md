@@ -48,17 +48,4 @@ Welcome to my github, feel free to reach out, and let's build the future togethe
   <img width="100%" src="./assets/images/line.svg"/>
 </p>
 
-# Some Stats
-
-<img width="64px" src="https://komarev.com/ghpvc/?username=vincent-qc&label=Views&style=for-the-badge&color=C41230" />
-
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=vincent-qc&show_icons=true&title_color=C41230&text_color=909090&bg_color=00000000&hide_border=true&icon_color=C43250&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-qc&layout=compact&show_icons=true&title_color=C41230&text_color=909090&bg_color=00000000&hide_border=true&icon_color=E05040&langs_count=8&hide=c%23,c%2B%2B,c,ASP.NET,makefile,shaderlab,HLSL,GAP,batchfile,Objective-c%2B%2B,dockerfile,CMake,freemarker,assembly,pawn,roff&exclude_repo=Particle-Simulations&count_private=true" />
-    </td>
-  </tr>
-</table>
+![Abhinandan Trilokia](https://github.com/vincent-qc/vincent-qc/blob/main/assets/images/wave.svg)
