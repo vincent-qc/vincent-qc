@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.github.com/vincor-qc"><img src="./assets/images/name.svg" alt="Vincent Qi" width="28%"/></a>
+  <a href="https://www.github.com/vincor-qc"><img src="./assets/images/name.svg" alt="Vincent Qi" width="30%"/></a>
 </p>
 
 <p align="center">
