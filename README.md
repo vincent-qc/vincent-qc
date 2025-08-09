@@ -44,8 +44,5 @@ Welcome to my github, feel free to reach out, and let's build the future togethe
 
 <img align="left" src="./assets/images/scs.png" width="50px" /> <pre>vqi [at] andrew.cmu.edu</pre>
 
-<p align="center">
-  <img width="100%" src="./assets/images/line.svg"/>
-</p>
 
-![Abhinandan Trilokia](https://github.com/vincent-qc/vincent-qc/blob/main/assets/images/wave.svg)
+![Vincent Qi](https://github.com/vincent-qc/vincent-qc/blob/main/assets/images/wave.svg)
