@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=C41230&center=true&vCenter=true&random=false&width=524&lines=building+the+future+of+nlp;prev.+founding+swe+%40+edubeyond;cs+%40+carnegie+mellon+university" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=524&lines=swe+%40+mercor;cs+%40+carnegie+mellon+university;prev.+founding+swe+%40+edubeyond" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,23 +22,19 @@
 
 ## About Me
 
-<pre>
-I'm Vincent Qi, a cs student at carnegie mellon university, and a prev. founding swe at EduBeyond.
 
-At 16, I started EduBeyond, an edtech startup that built llm powered learning management systems.
+Hi, I'm Vincent, a CS student at Carnegie Mellon University.
+
+At 16, I started **EduBeyond**, an edtech startup that changed how AI and Education interacted.
+
+At 18, I exited, and took a few software positions at **Context** and **Mercor**. 
+
+My current software and research interests include computer systems, scalable vector databases, retrieval models, and game development.
+
+Feel free to reach out, I'm always open to meeting new people :)
+
+<br/>
   
-At 18, I exited EduBeyond. Now, I'm working on an nlp startup that revolutionizes how games are developed.
-
-My current software and research interests include 
-  * large scale ai systems
-  * retrival models
-  * systems development
-  * and game development.
-
-Welcome to my github, feel free to reach out, and let's build the future together.
-</pre>
-  
-## Contact
 
 <img align="left" src="./assets/images/discord.png" width="50px" /> <pre>vincor\_</pre>
 
