@@ -20,9 +20,7 @@
   <img width="100%" src="./assets/images/line.svg"/>
 </p>
 
-## About Me
-
-
+### About Me
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
 At 16, I started **EduBeyond**, an edtech startup that changed how AI and Education interacted.
