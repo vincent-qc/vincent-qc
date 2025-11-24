@@ -25,7 +25,7 @@ Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
 At 16, I started **EduBeyond**, an edtech startup that changed how AI and Education interacted.
 
-At 18, I exited, and took a few software positions at **Context** and **Mercor**. 
+At 18, I exited, and now work as a software engineer at **Mercor**.
 
 My current software and research interests include computer systems, scalable vector databases, retrieval models, and game development.
 
