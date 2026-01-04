@@ -20,7 +20,6 @@
   <img width="100%" src="./assets/images/line.svg"/>
 </p>
 
-### About Me
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
 Currently, I'm a software engineer at **Mercor**, where I develop RLHF data pipelines.
