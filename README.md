@@ -24,7 +24,7 @@ Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
 Currently, I'm a software engineer at **Mercor**, where I develop RLHF data pipelines.
 
-Previously, I started **EduBeyond** (now Futurity) at age 16, and AI Learning Management System startup. 
+Previously, I started **EduBeyond** (now Futurity), where I developed AI Learning Management Systems. 
 
 Feel free to reach out, I'm always open to meeting new people :)
 
