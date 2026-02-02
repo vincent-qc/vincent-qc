@@ -10,9 +10,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/vincent_.qi/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/images/insta.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vincent-qi-777571250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/vincent-qi/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:vincent@edubeyond.ai"><img width="32px" alt="Mail" title="Email Me" src="./assets/images/mail.svg"/></a>
+  <a href="mailto:vincent.qi.2006@gmail.com"><img width="32px" alt="Mail" title="Email Me" src="./assets/images/mail.svg"/></a>
   <img align="right" src="./assets/images/cat.svg" width="30px">
 </p>
 
