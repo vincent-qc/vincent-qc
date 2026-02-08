@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=494&lines=incoming+%40+openai;prev+%40+mercor;cs+%40+carnegie+mellon+university;prev.+founding+swe+%40+edubeyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=494&lines=incoming+%40+openai;cs+%40+carnegie+mellon+university;prev+%40+mercor;prev.+founding+swe+%40+edubeyond" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
-Currently, I'm a software engineer at **Mercor**, where I develop RLHF data pipelines.
+Previously, I was a software engineer at **Mercor**, where I developed RLHF data pipelines.
 
-Previously, I started **EduBeyond** (now Futurity), where I developed AI Learning Management Systems. 
+I also started **EduBeyond** (now Futurity), where I developed AI Learning Management Systems. 
 
 Feel free to reach out, I'm always open to meeting new people :)
 
