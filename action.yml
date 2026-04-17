@@ -15,5 +15,10 @@ runs:
         WAKATIME_API_KEY: ${{ inputs.WAKATIME_API_KEY }}
         REPOSITORY: vincent-qc/vincent-qc
         SECTION_NAME: waka
+        BLOCKS: .*#
+        TIME_RANGE: all_time
+        LANG_COUNT: 8
+        SHOW_TIME: true
+        SHOW_TOTAL: true
         TARGET_BRANCH: main
         TARGET_PATH: README.md
