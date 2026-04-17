@@ -30,9 +30,8 @@ Feel free to reach out, I'm always open to meeting new people :)
 
 <br/>
   
-<div><img align="left" src="./assets/images/discord.png" width="50px" /> <pre>vincor_</pre></div>
-
-<div><img align="left" src="./assets/images/scs.png" width="50px" /> <pre>vqi [at] andrew.cmu.edu</pre></div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ![Vincent Qi](https://github.com/vincent-qc/vincent-qc/blob/main/assets/images/wave.svg)
