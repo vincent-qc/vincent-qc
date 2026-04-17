@@ -1,0 +1,70 @@
+name: Vincent QC WakaTime README
+description: Update this repository's README with WakaTime metrics via a local wrapper action.
+
+inputs:
+  WAKATIME_API_KEY:
+    description: WakaTime API key used to fetch coding activity.
+    required: true
+  GH_TOKEN:
+    description: Optional GitHub token for non-profile repositories.
+    required: false
+  API_BASE_URL:
+    description: Optional WakaTime-compatible API base URL.
+    required: false
+  REPOSITORY:
+    description: Repository whose README should be updated.
+    required: false
+    default: vincent-qc/vincent-qc
+  SECTION_NAME:
+    description: README marker section name.
+    required: false
+    default: waka
+  SHOW_TITLE:
+    description: Whether to render the section title.
+    required: false
+  BLOCKS:
+    description: Characters used for the bar graph.
+    required: false
+  CODE_LANG:
+    description: Code fence language for the rendered stats block.
+    required: false
+  TIME_RANGE:
+    description: WakaTime aggregation window.
+    required: false
+  LANG_COUNT:
+    description: Number of languages to display.
+    required: false
+  SHOW_TIME:
+    description: Whether to show time spent per language.
+    required: false
+  SHOW_TOTAL:
+    description: Whether to show total coding time.
+    required: false
+  COMMIT_MESSAGE:
+    description: Commit message used for README updates.
+    required: false
+  TARGET_BRANCH:
+    description: Branch that should receive README updates.
+    required: false
+    default: main
+
+runs:
+  using: composite
+  steps:
+    - name: Update README metrics
+      uses: athul/waka-readme@master
+      with:
+        WAKATIME_API_KEY: ${{ inputs.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ inputs.GH_TOKEN }}
+        API_BASE_URL: ${{ inputs.API_BASE_URL }}
+        REPOSITORY: ${{ inputs.REPOSITORY }}
+        SECTION_NAME: ${{ inputs.SECTION_NAME }}
+        SHOW_TITLE: ${{ inputs.SHOW_TITLE }}
+        BLOCKS: ${{ inputs.BLOCKS }}
+        CODE_LANG: ${{ inputs.CODE_LANG }}
+        TIME_RANGE: ${{ inputs.TIME_RANGE }}
+        LANG_COUNT: ${{ inputs.LANG_COUNT }}
+        SHOW_TIME: ${{ inputs.SHOW_TIME }}
+        SHOW_TOTAL: ${{ inputs.SHOW_TOTAL }}
+        COMMIT_MESSAGE: ${{ inputs.COMMIT_MESSAGE }}
+        TARGET_BRANCH: ${{ inputs.TARGET_BRANCH }}
