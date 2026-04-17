@@ -31,6 +31,15 @@ Feel free to reach out, I'm always open to meeting new people :)
 <br/>
   
 <!--START_SECTION:waka-->
+
+```txt
+OCaml        22 hrs 6 mins         ████████████████░░░░░░░░░   63.68 %
+Other        10 hrs 15 mins        ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Python       1 hr 33 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Assembly     26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Makefile     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
 <!--END_SECTION:waka-->
 
 
