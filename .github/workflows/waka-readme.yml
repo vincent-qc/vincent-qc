@@ -16,9 +16,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 10
-          BLOCKS: .*#
+          BLOCKS: ░▒▓█
           CODE_LANG: ocaml
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_TITLE: true
+          IGNORED_LANGUAGES: Other
