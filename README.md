@@ -33,20 +33,19 @@ Feel free to reach out, I'm always open to meeting new people :)
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 04 June 2023 - To: 17 April 2026
+From: 04 June 2023 - To: 18 April 2026
 
-Total Time: 78 hrs 6 mins
+Total Time: 83 hrs 46 mins
 
-OCaml        65 hrs 28 mins        ##################.......   70.25 %
-Other        15 hrs 5 mins         ####.....................   16.20 %
-Python       10 hrs 10 mins        ###......................   10.92 %
-TypeScript   39 mins               .........................   00.70 %
-Text         30 mins               .........................   00.54 %
-Assembly     26 mins               .........................   00.48 %
-Makefile     15 mins               .........................   00.28 %
-TSV          13 mins               .........................   00.24 %
-Git Config   5 mins                .........................   00.10 %
-CSS          4 mins                .........................   00.07 %
+OCaml        70 hrs 52 mins        █████████████████▓░░░░░░░   70.42 %
+Python       10 hrs 12 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+TypeScript   39 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Text         30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Assembly     26 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Makefile     15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+YAML         14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TSV          13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git Config   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
