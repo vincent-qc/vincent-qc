@@ -38,9 +38,11 @@ From: 04 June 2023 - To: 18 April 2026
 Total Time: 83 hrs 46 mins
 
 OCaml        70 hrs 52 mins        █████████████████▓░░░░░░░   70.42 %
+Other        16 hrs 52 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
 Python       10 hrs 12 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
 TypeScript   39 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Text         30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Assembly     26 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
