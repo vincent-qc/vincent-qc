@@ -33,16 +33,16 @@ Feel free to reach out, I'm always open to meeting new people :)
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 04 June 2023 - To: 30 May 2026
+From: 04 June 2023 - To: 31 May 2026
 
-Total Time: 219 hrs 56 mins
+Total Time: 221 hrs 43 mins
 
-OCaml            154 hrs 18 mins       ███████████████▓░░░░░░░░░   62.87 %
-Python           35 hrs 38 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Other            25 hrs 30 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-JavaScript       5 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Bash             4 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Text             3 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+OCaml            154 hrs 18 mins       ███████████████▓░░░░░░░░░   62.42 %
+Python           37 hrs 24 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Other            25 hrs 30 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+JavaScript       5 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Bash             4 hrs 59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Text             3 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
