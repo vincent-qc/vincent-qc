@@ -22,7 +22,7 @@
 
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
-Previously, I was a software engineer at **Mercor**, where I developed RLHF data pipelines.
+Previously, I was a software engineer at **Mercor**, where I built RL envs.
 
 I also started **EduBeyond** (now Futurity), where I developed AI Learning Management Systems. 
 
