@@ -22,9 +22,11 @@
 
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
-Previously, I was a software engineer at **Mercor**, where I built RL envs.
+Currently, I worked at **OpenAI** on the foundations team.
 
-I also started **EduBeyond** (now Futurity), where I developed AI Learning Management Systems. 
+Previously, I was a software engineer at **Mercor**, where I built RL envs & data pipelines.
+
+I also started **EduBeyond**, where I developed AI Learning Management Systems. 
 
 Feel free to reach out, I'm always open to meeting new people :)
 
