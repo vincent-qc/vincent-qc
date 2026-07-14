@@ -22,7 +22,7 @@
 
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
-Currently, I work at **OpenAI** on the foundations team.
+Currently, I work at **OpenAI** on the integrity & foundations team.
 
 Previously, I was a software engineer at **Mercor**, where I built RL envs & data pipelines.
 
