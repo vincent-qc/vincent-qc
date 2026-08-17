@@ -24,7 +24,7 @@ Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
 Currently, I work at **OpenAI** on the integrity & foundations team.
 
-Previously, I was a software engineer at **Mercor**, where I built RL envs & data pipelines.
+Previously, I was a software engineer at **Mercor**, where I built RL envs & frontier evals.
 
 I also started **EduBeyond**, where I developed AI Learning Management Systems. 
 
