@@ -35,7 +35,7 @@ Feel free to reach out, I'm always open to meeting new people :)
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 04 June 2023 - To: 22 August 2026
+From: 04 June 2023 - To: 23 August 2026
 
 Total Time: 229 hrs 43 mins
 
