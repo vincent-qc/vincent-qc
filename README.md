@@ -22,7 +22,7 @@
 
 Hi, I'm Vincent, a CS student at Carnegie Mellon University.
 
-This summer, I worked at **OpenAI** on the applied foundations team.
+This summer, I worked at **OpenAI** on the integrity foundations team.
 
 Previously, I also worked as a software engineer at **Mercor**, where I built RL envs & frontier evals.
 
